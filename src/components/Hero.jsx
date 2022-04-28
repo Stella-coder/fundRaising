@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import img from "../wall/1.jpg";
+import img from "../wall/pic2.png";
 import GlobalButton from "./GlobalButton";
 
 const Hero = () => {
